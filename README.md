@@ -23,8 +23,8 @@
 ### 👨‍💻 About Me
 
 **Name:** BEN  
-**Location:** 🌍  
-**Role:** Human  
+**Location:** Your City, Country 🌍  
+**Role:** Software Engineer  
 **Current Focus:** Full Stack Development  
 **Languages:** JavaScript, Python, Java, TypeScript  
 **Frameworks:** React, Node.js, Express, Django  
@@ -32,8 +32,6 @@
 **Tools:** Git, Docker, AWS, VS Code  
 **Currently Learning:** Machine Learning & Cloud Architecture  
 **Fun Fact:** I debug with coffee and solve problems with code! ☕
-
-
 
 ### 🛠️ Tech Stack
 
@@ -72,4 +70,55 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BENxcoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENxcoder&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BENxcoder&theme=tokyonight" alt="BENxcoder" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BENxcoder&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BENxcoder&theme=tokyo-night" />
+</div>
+
+### 🔥 Current Projects
+
+- 🌟 **Project Name** - Brief description of what you're building
+- 🚀 **Another Project** - What problem it solves
+- 💡 **Learning Project** - What you're exploring
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about code!
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
