@@ -23,8 +23,8 @@
 ### 👨‍💻 About Me
 
 **Name:** BEN  
-**Location:** Your City 🌍  
-**Role:** Software Engineer  
+**Location:** 🌍  
+**Role:** Human  
 **Current Focus:** Full Stack Development  
 **Languages:** JavaScript, Python, Java, TypeScript  
 **Frameworks:** React, Node.js, Express, Django  
