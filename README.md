@@ -22,18 +22,17 @@
 
 ### 👨‍💻 About Me
 
-const developer = {
-name: "BEN",
-location: "Your City 🌍",
-role: "Software Engineer",
-currentFocus: "Full Stack Development",
-languages: ["JavaScript", "Python", "Java", "TypeScript"],
-frameworks: ["React", "Node.js", "Express", "Django"],
-databases: ["MongoDB", "PostgreSQL", "MySQL"],
-tools: ["Git", "Docker", "AWS", "VS Code"],
-currentlyLearning: "Machine Learning & Cloud Architecture",
-funFact: "I debug with coffee and solve problems with code! ☕"
-};
+**Name:** BEN  
+**Location:** Your City 🌍  
+**Role:** Software Engineer  
+**Current Focus:** Full Stack Development  
+**Languages:** JavaScript, Python, Java, TypeScript  
+**Frameworks:** React, Node.js, Express, Django  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools:** Git, Docker, AWS, VS Code  
+**Currently Learning:** Machine Learning & Cloud Architecture  
+**Fun Fact:** I debug with coffee and solve problems with code! ☕
+
 
 
 ### 🛠️ Tech Stack
